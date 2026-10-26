@@ -1,6 +1,6 @@
 name = "Invisible Movement"
 author = "matthewbkrr"
-version = "0.1.0+dbb7b34"
+version = "0.1.0+f1863e6"
 pack-format = "packwiz:1.1.0"
 
 [index]
