@@ -1,0 +1,10 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
+metafile = true
+
+[[files]]
+file = "mods/invisiblemovement.jar"
+hash = "ea65f78c83547fe686be56da5813289c06623f0e6504d89306739cf5663f7b93"
