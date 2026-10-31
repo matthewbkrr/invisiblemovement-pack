@@ -1,12 +1,12 @@
 name = "Invisible Movement"
 author = "matthewbkrr"
-version = "0.1.0+5b81d8c"
+version = "0.1.0+75cd18e"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "37d99e4f138773d91d2df68c5bcbef7373c20499303b0dcbf58a9cc2f5958c56"
+hash = "7fe621a4c8af4dd45e9ed0c6f283ace2f4ea3e21c300b76b47c0bf5ab882864b"
 
 [versions]
 fabric = "0.19.5"
